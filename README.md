@@ -1,2 +1,5 @@
 # chatbot_webSockets
-It is a chat-bot built using openai API, django channels and web sockets
+build a simple chat server. It will have two pages:
+
+* An index view that lets you type the name of a chat room to join.
+* A room view that lets you see messages posted in a particular chat room.
